@@ -6,6 +6,7 @@ namespace BlogSystem.Controllers
     {
         public IActionResult Index()
         {
+
             return View();
         }
     }
